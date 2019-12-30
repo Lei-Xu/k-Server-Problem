@@ -12,14 +12,6 @@
 <p style="font-size: 20px; margin: 50px; font-weight: bold; line-height: 30px"> Work Function Algorithm and Greedy Algorithm for the k-Server Problem on Graph Metrics </p>
 </div>
 
-<div align=center style="margin: 100px">
-<p style="font-size:15px;"> Lei Xu </p>
-<p style="font-size:15px;"> Ying Qi </p>
-</div>
-
-<div align=center style="margin: 100px">
-<p style="font-size:15px;"> March 22 2019 </p>
-</div>
 
 <div style="page-break-after: always"></div>
 
